@@ -1,0 +1,13 @@
+{
+    "patterns": 100,
+    "width_range": 50,
+    "height_range": 15,
+    "poti_interval": 0.1,
+    "default_places": [
+        [1715, 993],
+        [1328, 993],
+        [937, 993],
+        [552, 993],
+        [169, 993]
+    ]
+}
